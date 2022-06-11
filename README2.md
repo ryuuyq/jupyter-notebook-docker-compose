@@ -9,3 +9,6 @@
 font.family:SimHei,  sans-serif
 ```
 
+### NotebookApp now is deprecated, use ServerApp instead
+
+https://github.com/stefanproell/jupyter-notebook-docker-compose/issues/2
